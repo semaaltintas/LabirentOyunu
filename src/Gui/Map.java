@@ -9,6 +9,7 @@ import javax.swing.*;
 /**
  *
  * @author FERİDE ÇOLAK
+ * @author Sema Altıntaş
  */
 
 public class Map {

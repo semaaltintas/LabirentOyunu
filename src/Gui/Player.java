@@ -7,6 +7,7 @@ import javax.swing.ImageIcon;
 /**
  *
  * @author FERİDE ÇOLAK
+ * @author Sema Altıntaş
  */
 
 public class Player {

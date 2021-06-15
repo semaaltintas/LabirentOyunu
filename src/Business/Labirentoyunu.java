@@ -12,6 +12,7 @@ import sun.audio.AudioStream;
 /**
  *
  * @author FERİDE ÇOLAK
+ * @author Sema Altıntaş
  */
 public class Labirentoyunu {
 

@@ -7,6 +7,11 @@ import javax.swing.*;
 import Gui.Map;
 import Gui.Player;
 
+/**
+ *
+ * @author FERİDE ÇOLAK
+ * @author Sema Altıntaş
+ */
 public class Board extends JPanel implements ActionListener{
     JFrame f=new JFrame();
     private Timer timer;
